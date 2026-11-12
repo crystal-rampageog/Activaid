@@ -189,4 +189,4 @@ This repository serves as the official landing page for ac'tivAid. The software 
 **Get the most recent version of ac'tivAid today!**
 
 ---
-**Last updated:** 2026-11-11 23:24:37 UTC
+**Last updated:** 2026-11-12 06:04:14 UTC
